@@ -1,0 +1,24 @@
+1. 
+git branch branca00
+git checkout branca00
+git status
+5.
+git checkout main
+git log
+Falta ultim commit que ha hecho cuando estare en la branca00
+6.
+No puedo porque lo izo commit cuando estare en la branca00 
+y cuando me devolviste en la branca main la linia se deseparese.
+7.
+git checkout branca00
+Si puedo porque en esta branca lo izo commit y estan cambios.
+10.b
+git merge branca00
+12.
+git push -u origin main
+12.c
+Porque nos fusionamos la branca00 con main 
+14.a
+git push -u origin branca01
+14.c
+difirencia en 1 commit
